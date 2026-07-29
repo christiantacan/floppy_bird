@@ -1,0 +1,7 @@
+:root{
+  --bg: linear-gradient(180deg,#d9f1ff,#a7e3ff);
+}
+html,body,#root,#__next{height:100%;}
+body{margin:0;font-family:Segoe UI, Roboto, Arial, sans-serif;background:var(--bg);-webkit-font-smoothing:antialiased;}
+*{box-sizing:border-box}
+canvas{display:block}
